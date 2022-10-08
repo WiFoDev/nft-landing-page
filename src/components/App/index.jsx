@@ -1,7 +1,9 @@
+import { Layout } from '../Layout'
+
 function App() {
   return (
     <div className="text-xl">
-      <h1>Hello</h1>
+      <Layout>Hello</Layout>
     </div>
   )
 }
